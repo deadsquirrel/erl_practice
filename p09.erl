@@ -1,7 +1,6 @@
 -module (p09).
 -author("yanki").
 
--import(io, [format/2]).
 -export([pack/1]).
 
 pack(List) ->

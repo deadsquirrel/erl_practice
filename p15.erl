@@ -1,7 +1,6 @@
 -module (p15).
 -author("yanki").
 
--import(io,[format/2]).
 -export([replicate/2]).
 
 replicate(List, N) ->
